@@ -28,7 +28,8 @@ Before you begin, ensure you have met the following requirements:
 ```java
 String jdbcURL = "jdbc:mysql://localhost:3306/excel_data";
 String username = "your_username";
-String password = "your_password";```
+String password = "your_password";
+```
 
 Compile and run the ExcelToDatabase.java file.
 
