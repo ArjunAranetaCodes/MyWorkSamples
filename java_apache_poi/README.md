@@ -50,7 +50,7 @@ Sample Contents of Excel:
 
 Sample Results
 
-![poi_snap1.PNG](https://github.com/ArjunAranetaCodes/MyWorkSamples/blob/main/java_apache_poi/poi_snap1.PNG)
+![poi_snap1.PNG](https://github.com/ArjunAranetaCodes/MyWorkSamples/blob/main/java_apache_poi/poi_snap1.png)
 
-![poi_snap2.PNG](https://github.com/ArjunAranetaCodes/MyWorkSamples/blob/main/java_apache_poi/poi_snap2.PNG)
+![poi_snap2.PNG](https://github.com/ArjunAranetaCodes/MyWorkSamples/blob/main/java_apache_poi/poi_snap2.png)
 
